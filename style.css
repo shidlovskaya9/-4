@@ -1,5 +1,5 @@
 body {
-       background-image:url("/фон.jpg");
+       background-image:url("фон.jpg");
        font-family: Arial, Sans-Serif; /* Тип шрифта */
        color: ; /* Цвет текста */
        font-size: 20px; /* Размер текста в пикселях */
